@@ -1,0 +1,2 @@
+# sobotni-werteryzm
+cóż poradzić
