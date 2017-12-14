@@ -1,0 +1,22 @@
+public class HelloWorld {
+    public static class Coord {
+        public double x;
+        public double y;
+
+        public Coord(double x, double y) {
+            this.x = x;
+            this.y = y;
+        }
+
+        public double sum() {
+            return x+y;
+        }
+    }
+
+    public static void main(String[] args) {
+        Coord place = new Coord( 7,9);
+        System.out.println(place.sum());
+
+
+    }
+}
